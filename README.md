@@ -28,12 +28,12 @@
 </thead>
 <tbody>
 <tr>
-<td>Исследование нескольких аспектов мобильной игры  (<strong><a href="https://github.com/elizarovpr/project_mobile_game">github</a></strong>)</td>
+<td>Проект про исследование нескольких аспектов мобильной игры  (<strong><a href="https://github.com/elizarovpr/project_mobile_game">github</a></strong>)</td>
 <td>Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap).</td>
 <td>pandas, numpy, seaborn, scipy, pingouin</td>
 </tr>
 <tr>
-<td>Проект 4 E-commerce  (<strong><a href="https://github.com/elizarovpr/project_e-commerce">github</a></strong>)</td>
+<td>Проект по E-commerce  (<strong><a href="https://github.com/elizarovpr/project_e-commerce">github</a></strong>)</td>
 <td>Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ</td>
 <td>pandas, seaborn, matplotlib</td>
 </tr>
